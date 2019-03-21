@@ -33,11 +33,18 @@
   "ukeplan": {
     "oektantall": 3
   },
-  "økt": {
-    "gjennomføringstid": "5.0",
-    "gjennomføringsgrad": {},
-    "vurdering": "****"
-  },
+  "økt": [
+    {
+      "gjennomføringstid": "5.0",
+      "gjennomføringsgrad": {},
+      "vurdering": "****"
+    },
+    {
+      "gjennomføringstid": "25.0",
+      "gjennomføringsgrad": {},
+      "vurdering": "*****"
+    }
+  ],
   "program": [
     {
       "ID": 1,
