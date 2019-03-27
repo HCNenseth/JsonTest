@@ -3,7 +3,7 @@
     "email": "test@gmail.com",
     "fname": "Ole",
     "lname": "Hansen",
-    "adress": "Sagene 8",
+    "adress": "Sagene 18",
     "zipcode": 375,
     "city": "Oslo",
     "phone": 98045123,
@@ -44,6 +44,12 @@
       "id": 2,
       "gjennomføringstid": "25.0",
       "gjennomføringsgrad": {},
+      "vurdering": "**"
+    },
+    {
+      "id": 2,
+      "gjennomføringstid": "2.0",
+      "gjennomføringsgrad": "bra",
       "vurdering": "**"
     }
   ],
