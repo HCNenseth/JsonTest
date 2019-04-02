@@ -10,6 +10,7 @@
     "picture": "https://raw.githubusercontent.com/HCNenseth/JsonTest/master/IMG_20190305_164022_01.jpg",
     "password": "test1234",
     "client": {
+      "active": true,
       "PT": "Eirik",
       "weight": [
         95,
