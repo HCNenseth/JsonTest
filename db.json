@@ -10,7 +10,6 @@
     "picture": "https://raw.githubusercontent.com/HCNenseth/JsonTest/master/IMG_20190305_164022_01.jpg",
     "password": "test1234",
     "client": {
-      "active": true,
       "PT": "Eirik",
       "weight": [
         95,
@@ -37,29 +36,30 @@
   "workout": [
     {
       "id": 1,
-      "gjennomføringstid": "5.0",
-      "gjennomføringsgrad": {},
-      "vurdering": "****"
+      "date": "2019-02-25T00:00:00.000Z",
+      "duration": 5,
+      "deviation": "4/5",
+      "rating": "****"
     },
     {
       "id": 2,
-      "gjennomføringstid": "25.0",
-      "gjennomføringsgrad": {},
+      "date": "2019-03-25T00:00:00.000Z",
+      "duration": 25,
+      "deviation": "1/5",
       "vurdering": "**"
     },
     {
       "id": 3,
-      "gjennomføringstid": "2.0",
-      "gjennomføringsgrad": "bra",
+      "date": "2019-02-21T00:00:00.000Z",
+      "duration": 2,
+      "deviation": "1/5",
       "vurdering": "**"
     }
   ],
   "program": [
     {
       "ID": 1,
-      "instructor": "Eirik",
       "tittle": "Kondisjon",
-      "description": "Lorum Ipsum....",
       "picture": "https.//bilde.jpeg",
       "opprettelsesdato": "2018-09-09T00:00:00.000Z",
       "redigeringsdatoer": "2019-01-01T00:00:00.000Z",
@@ -72,9 +72,7 @@
     },
     {
       "ID": 1,
-      "instructor": "Eirik",
       "tittle": "styrke",
-      "description": "Lorum Ipsum....",
       "picture": "https.//bilde.jpeg",
       "opprettelsesdato": "2018-09-09T00:00:00.000Z",
       "redigeringsdatoer": "2019-01-01T00:00:00.000Z",
@@ -87,39 +85,24 @@
   ],
   "exercise": [
     {
+      "id": 2,
       "tittel": "styrkeløft",
       "description": "løfte vekter",
       "picture": "",
       "video": "youtube stream",
-      "weightbased": {
-        "value": true,
-        "weight": 30,
-        "repetisjoner": 8,
-        "set": 3,
-        "weightdeviation": 0,
-        "gjennomføringstid": "6.35"
-      },
-      "timebased": {
-        "value": false,
-        "time": 0
-      }
+      "weightbased": {},
+      "timebased": {},
+      "": {}
     },
     {
+      "id": 3,
       "tittel": "sykkel",
       "description": "Sykle i x ant minutter",
       "picture": "",
       "video": "youtube stream",
-      "weightbased": {
-        "value": true,
-        "weight": 30,
-        "repetisjoner": 8,
-        "set": 3,
-        "weightdeviation": 0,
-        "gjennomføringstid": "6.35"
-      },
+      "weightbased": {},
       "timebased": {
-        "value": false,
-        "time": 0
+        "": {}
       }
     }
   ],
