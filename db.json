@@ -42,8 +42,8 @@
       "description": "løfte vekter",
       "picture": "",
       "video": "youtube stream",
-      "weightbased": {},
-      "timebased": {}
+      "weight_based": {},
+      "time_based": {}
     },
     {
       "id": 3,
@@ -51,8 +51,8 @@
       "description": "Sykle i x ant minutter",
       "picture": "",
       "video": "youtube stream",
-      "weightbased": {},
-      "timebased": {
+      "weight_based": {},
+      "time_based": {
         "": {}
       }
     }
@@ -60,7 +60,7 @@
   "program": [
     {
       "ID": 1,
-      "tittle": "Kondisjon",
+      "title": "Kondisjon",
       "picture": "https.//bilde.jpeg",
       "created": "2018-09-09T00:00:00.000Z",
       "edited": "2019-01-01T00:00:00.000Z",
@@ -73,7 +73,7 @@
     },
     {
       "ID": 2,
-      "tittle": "styrke",
+      "title": "styrke",
       "picture": "https.//bilde.jpeg",
       "created": "2018-09-09T00:00:00.000Z",
       "edited": "2019-01-01T00:00:00.000Z",
