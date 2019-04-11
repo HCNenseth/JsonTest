@@ -21,7 +21,7 @@
         91,
         92
       ],
-      "Programs": [
+      "programs": [
         2,
         3,
         6
@@ -59,7 +59,7 @@
   ],
   "program": [
     {
-      "ID": 1,
+      "id": 1,
       "title": "Kondisjon",
       "picture": "https.//bilde.jpeg",
       "created": "2018-09-09T00:00:00.000Z",
@@ -72,7 +72,7 @@
       ]
     },
     {
-      "ID": 2,
+      "id": 2,
       "title": "styrke",
       "picture": "https.//bilde.jpeg",
       "created": "2018-09-09T00:00:00.000Z",
