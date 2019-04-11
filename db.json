@@ -38,7 +38,7 @@
   "exercise": [
     {
       "id": 2,
-      "tittel": "styrkeløft",
+      "title": "styrkeløft",
       "description": "løfte vekter",
       "picture": "",
       "video": "youtube stream",
@@ -47,7 +47,7 @@
     },
     {
       "id": 3,
-      "tittel": "sykkel",
+      "title": "sykkel",
       "description": "Sykle i x ant minutter",
       "picture": "",
       "video": "youtube stream",
