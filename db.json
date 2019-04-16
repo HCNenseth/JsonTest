@@ -39,7 +39,7 @@
       "id": 2,
       "title": "styrkeløft",
       "description": "løfte vekter",
-      "picture": "",
+      "picture": "https://raw.githubusercontent.com/HCNenseth/JsonTest/master/utfall.jpg",
       "video": "youtube stream",
       "weight_based": {},
       "time_based": {}
@@ -48,7 +48,7 @@
       "id": 3,
       "title": "situps",
       "description": "situps i x ant minutter",
-      "picture": "",
+      "picture": "https://raw.githubusercontent.com/HCNenseth/JsonTest/master/kneboy.jpg",
       "video": "youtube stream",
       "weight_based": {},
       "time_based": {
