@@ -37,23 +37,39 @@
   "exercise": [
     {
       "id": 2,
-      "title": "styrkeløft",
+      "title": "Styrkeløft",
       "description": "løfte vekter",
       "picture": "https://raw.githubusercontent.com/HCNenseth/JsonTest/master/utfall.jpg",
       "video": "youtube stream",
-      "weight_based": {},
-      "time_based": {}
+      "weight_based": "",
+      "time_based ": ""
     },
     {
       "id": 3,
-      "title": "situps",
+      "title": "Situps",
       "description": "situps i x ant minutter",
       "picture": "https://raw.githubusercontent.com/HCNenseth/JsonTest/master/kneboy.jpg",
       "video": "youtube stream",
-      "weight_based": {},
-      "time_based": {
-        "": {}
-      }
+      "weight_based": "",
+      "time_based": ""
+    },
+    {
+      "id": 4,
+      "title": "Kneløft",
+      "description": "situps i x ant minutter",
+      "picture": "https://raw.githubusercontent.com/HCNenseth/JsonTest/master/kneboy.jpg",
+      "video": "youtube stream",
+      "weight_based": "",
+      "time_based": ""
+    },
+    {
+      "id": 5,
+      "title": "Armhev",
+      "description": "situps i x ant minutter",
+      "picture": "https://raw.githubusercontent.com/HCNenseth/JsonTest/master/kneboy.jpg",
+      "video": "youtube stream",
+      "weight_based": "",
+      "time_based": ""
     }
   ],
   "program": [
@@ -78,6 +94,17 @@
         },
         {
           "exercise_id": 3,
+          "weight_based": {
+            "weight": "",
+            "reps": "",
+            "set": ""
+          },
+          "time_based": {
+            "duration": "7200"
+          }
+        },
+        {
+          "exercise_id": 4,
           "weight_based": {
             "weight": "",
             "reps": "",
